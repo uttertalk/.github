@@ -1,0 +1,2 @@
+# Shows a "Sponsor" button on every Utter repo, linking to the donation addresses.
+custom: ["https://github.com/uttertalk/.github/blob/main/profile/README.md#support-utter"]
